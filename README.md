@@ -5,7 +5,13 @@ This project analyses personal betting records from 2025 using Microsoft Excel. 
 I organised the records into four linked tables, standardised inconsistent entries, validated calculations and built PivotTables and charts to explore the results.
 
 The analysis shows how a positive annual result can depend heavily on a small number of large winning tickets. It describes historical outcomes and does not establish that a betting strategy will remain profitable.
+## Dashboard Preview
 
+![Annual and monthly summary in units](overview.png)
+
+![Cumulative profit and loss in units](cumulative-profit-loss.png)
+
+![Impact of the five largest winning tickets](profit-concentration.png)
 ## Dataset and Structure
 
 The dataset contains personal betting records placed in 2025 from two bookmakers, anonymised as `Book_A` and `Book_B` in the public workbook.
